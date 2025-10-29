@@ -60,10 +60,10 @@ D. Accept the first merge and ignore all subsequent changes.
 
 3. In GitHub, what is a Pull Request (PR) mainly used for?
 ```
-A. To pull all branches into your local machine
-B. To request merging your branch into another branch after review
-C. To automatically delete your local repository
-D. To clone a repository from another user’s account
+A. It downloads updates from the remote repository to a local machine.
+B. It requests permission to overwrite another contributor’s branch.
+C. It proposes integrating changes from one branch into another after peer review.
+D. It automatically merges all branches without requiring approval.
 ```
 
 4. When working concurrently on a shared GitHub repository, why is it recommended that each developer works in their own feature branch instead of editing main directly?
