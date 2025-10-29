@@ -69,8 +69,8 @@ D. It automatically merges all branches without requiring approval.
 4. When working concurrently on a shared GitHub repository, why is it recommended that each developer works in their own feature branch instead of editing main directly?
 ```
 A. Because branches are faster to upload to GitHub, in a big system project, it will take a lot of time to actually upload it to the main branch.
-B. Because it prevents repository cloning errors.
-C. Because it isolates their work, reducing the chance of overwriting others’ code.
+B. Because it isolates their work, reducing the chance of overwriting others’ code.
+C. Because it prevents repository cloning errors.
 D. Because only feature branches can be merged into the main repository, the main cannot be updated without the branch.
 ```
 
