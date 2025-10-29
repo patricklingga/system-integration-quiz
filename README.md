@@ -41,7 +41,9 @@ C. To allow automatic deletion of feature branches after merging.
 D. To make sure contributors cannot create new branches.
 ```
 
-# Upload your answer by doing the following
+# Upload your answers by doing the following
+
+FYI, each question worth 1 point, for the total of 5 points. The other 5 point will be given if you properly create a PR to this github repository.
 
 ## 1. Create your own fork
 <img width="1573" height="342" alt="image" src="https://github.com/user-attachments/assets/23de9b96-8cc2-4260-ba78-317f807b13ea" />
