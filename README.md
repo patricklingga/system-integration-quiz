@@ -60,9 +60,9 @@ D. Accept the first merge and ignore all subsequent changes.
 
 3. In GitHub, what is a Pull Request (PR) mainly used for?
 ```
-A. It downloads updates from the remote repository to a local machine.
-B. It requests permission to overwrite another contributor’s branch.
-C. It proposes integrating changes from one branch into another after peer review.
+A. It proposes integrating changes from one branch into another after peer review.
+B. It requests permission to overwrite another contributor’s branch by reviewing the code comparison.
+C. It downloads updates from the remote repository to a local machine.
 D. It automatically merges all branches without requiring approval.
 ```
 
